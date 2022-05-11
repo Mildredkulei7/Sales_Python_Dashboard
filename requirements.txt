@@ -2,6 +2,7 @@ panel
 hvplot
 scikit-learn
 nbconvert
+gunicorn
 
 # Dependencies for generating/publishing Python binaries.
 bob-builder==0.0.19
