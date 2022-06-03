@@ -1,0 +1,8 @@
+pandas
+numpy
+hvplot
+panel
+sqlalchemy
+create_engine
+seaborn
+matplotlib.pyplot
